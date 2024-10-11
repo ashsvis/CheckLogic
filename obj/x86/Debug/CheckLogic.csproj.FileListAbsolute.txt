@@ -1,0 +1,13 @@
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.csproj.AssemblyReference.cache
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.ChildForm.resources
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.InputLinkForm.resources
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.InputValueForm.resources
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.MainForm.resources
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.Properties.Resources.resources
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.csproj.GenerateResource.cache
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.csproj.CoreCompileInputs.cache
+D:\Work\CheckLogic\CheckLogic.exe.config
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.exe
+D:\Work\CheckLogic\obj\x86\Debug\CheckLogic.pdb
+D:\Work\CheckLogic\CheckLogic.exe
+D:\Work\CheckLogic\CheckLogic.pdb
